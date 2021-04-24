@@ -1,0 +1,56 @@
+[
+    {
+        "id" : 0,
+        "name": "Weather App",
+        "description": "A weather dashboard application.",
+        "technology": "Simple Front-End",
+        "url": "https://bennasabir.github.io/weather-dashboard/",
+        "github": "https://github.com/BennAsabir/weather-dashboard",
+        "image" : "screenshot"
+    },
+    {
+        "id" : 1,
+        "name": "TASKMASTER PRO",
+        "description": "A task-management application",
+        "technology": "Simple Front-End",
+        "url": "https://bennasabir.github.io/taskmaster-pro/",
+        "github": "https://github.com/BennAsabir/taskmaster-pro",
+        "image" : "screenshot2"
+    }, 
+    {
+        "id" : 2,
+        "name": "ENVOY",
+        "description": "A Hub for environmentally friendly products!",
+        "technology": "Basic Full Stack",
+        "url": "https://envoy-guide.herokuapp.com/",
+        "github": "https://github.com/Envoy-products/Envoy-Products",
+        "image" : "envoypic"
+    },
+    {
+        "id" : 3,
+        "name":"TEAM PROFILER",
+        "description": "Command-line application that takes in information about employees",
+        "technology": "Back-End",
+        "url": "https://github.com/BennAsabir/Team-Profile-Generator",
+        "github": "https://github.com/BennAsabir/Team-Profile-Generator",
+        "image" : "screenshottwo"
+    },
+    {
+        "id" : 4,
+        "name": "SaveTV",
+        "description": "Search up your favorite shows",
+        "technology": "Basic Full Stack",
+        "url": "https://utbootcampgroup2.github.io/SaveTV/",
+        "github": "https://github.com/UTBootCampGroup2/SaveTV",
+        "image" : "screenshot5"
+    },
+    {
+        "id" : 5,
+        "name": "Note Taker",
+        "description": "Simple note taking app",
+        "technology": "Simple Front-End",
+        "url": "https://fast-hamlet-04025.herokuapp.com/",
+        "github": "https://github.com/BennAsabir/note-taker",
+        "image" : "screenshotcopy"
+    }
+]
