@@ -8,15 +8,15 @@ const Footer = () => {
             <nav>
                 <ul className='nav'>
                     <li className='nav-item'>
-                        <a href='https://github.com/BennAsabir'><span><i className='fab fa-github fa-3x'></i></span></a>
+                        <a href='https://github.com/BennAsabir' target="_blank"><span><i className='fab fa-github fa-3x'></i></span></a>
                     </li>
 
                     <li className='nav-item'>
-                        <a href='https://www.linkedin.com/in/benasabir/'><span><i className='fab fa-linkedin fa-3x'></i></span></a>
+                        <a href='https://www.linkedin.com/in/benasabir/' target="_blank"><span><i className='fab fa-linkedin fa-3x'></i></span></a>
                     </li>
 
                     <li className='nav-item'>
-                        <a href='mailto: benasabir@gmail.com'><span><i class="fas fa-envelope fa-3x"></i></span></a>
+                        <a href='mailto: benasabir@gmail.com' target="_blank"><span><i class="fas fa-envelope fa-3x"></i></span></a>
                     </li>
                 </ul>
             </nav>
