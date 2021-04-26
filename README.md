@@ -23,6 +23,7 @@ Image of application.
 Project is created with 
 * [Javascript](https://www.javascript.com/)
 * [React](https://reactjs.org/)
+* [Css](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 
 ## Installation
