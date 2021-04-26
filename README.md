@@ -16,7 +16,7 @@ This application is used as my portfolio. Upgrading from basic html and css, thi
 [Link to deployed application](https://bennasabir.github.io/react-portfolio/)
 
 <br>
-Image of downloaded application.
+Image of application.
 <img src=./src/assets/images/demo.png>
 
 ## Technologies
