@@ -46,11 +46,11 @@
     },
     {
         "id" : 5,
-        "name": "Note-Taker",
-        "description": "Simple note taking app",
-        "technology": "Simple Front-End",
-        "url": "https://fast-hamlet-04025.herokuapp.com/",
-        "github": "https://github.com/BennAsabir/note-taker",
+        "name": "WOOF",
+        "description": "Woof connects dog owners with dog walkers!",
+        "technology": "Full Mern SPA",
+        "url": "https://woof-2021.herokuapp.com/",
+        "github": "https://github.com/woof-board/woof",
         "image" : "screenshotcopy"
     }
 ]
